@@ -1,6 +1,5 @@
-(add-to-list 'load-path "~/.emacs.d")
+(add-to-list 'load-path "~/.emacs.d/lisp")
 (require 'auto-complete-init)
-(require 'lang-init)
 
 (setq inhibit-startup-message t)   ; Don't want any startup message
 (setq visible-bell 1)
