@@ -1,7 +1,6 @@
-ZSH=$HOME/.oh-my-zsh
-ZSH_THEME="bira"
-plugins=(git)
 
-source $ZSH/oh-my-zsh.sh
+source ~/.me.conf/zsh.d/git-prompt.sh
 
-# User configuration
+plugins=(git rails ruby)
+
+setopt PROMPT_SUBST ; PS1='[%n@%m %c$(__git_ps1 " (%s)")]\$ '
