@@ -1,6 +1,8 @@
+export ZSH=$HOME/.oh-my-zsh
 
-source ~/.me.conf/zsh.d/git-prompt.sh
+ZSH_THEME="steeef"
+DISABLE_AUTO_TITLE="true"
+plugins=(git osx ruby github golang rails bundler)
 
-plugins=(git rails ruby)
-
-setopt PROMPT_SUBST ; PS1='[%n@%m %c$(__git_ps1 " (%s)")]\$ '
+source $ZSH/oh-my-zsh.sh
+export LANG=en_US.UTF-8
