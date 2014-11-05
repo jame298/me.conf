@@ -1,0 +1,5 @@
+(add-to-list 'load-path "~/.emacs.d/ido")
+(require 'ido-vertical-mode)
+(ido-mode t)
+(ido-vertical-mode t)
+(provide 'ido-init)

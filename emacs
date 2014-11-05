@@ -2,6 +2,7 @@
 (require 'uniquify)
 (require 'auto-complete-init)
 (require 'lang-init)
+(require 'ido-init)
 
 (setq inhibit-startup-message t)   ; Don't want any startup message
 (setq visible-bell 1)
