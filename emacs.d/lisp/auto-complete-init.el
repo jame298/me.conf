@@ -4,4 +4,5 @@
 (ac-config-default)
 (ac-set-trigger-key "TAB")
 (setq ac-auto-start nil)
+(setq global-auto-complete-mode t)
 (provide 'auto-complete-init)
