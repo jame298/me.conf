@@ -11,4 +11,5 @@
 (setq tab-stop-list '(4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80))
 (setq uniquify-buffer-name-style 'post-forward)
 (menu-bar-mode -1)
+(global-auto-revert-mode 1)
 
