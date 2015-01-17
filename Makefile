@@ -1,9 +1,10 @@
 build:
-	brew install emacs tmux zsh
+	sudo apt-get install emacs tmux zsh docker python
+	curl -L http://install.ohmyz.sh | sh
 install:
 	PWD=$(shell pwd)
-	ln -svn $(PWD)/emacs $(HOME)/.emacs
-	ln -svn $(PWD)/emacs.d $(HOME)/.emacs.d
-	ln -svn $(PWD)/tmux.conf $(HOME)/.tmux.conf
-	ln -svn $(PWD)/zshrc $(HOME)/.zshrc
-	ln -svn $(PWD)/vimrc $(HOME)/.vimrc
+	ln -sfvn $(PWD)/emacs $(HOME)/.emacs
+	ln -sfvn $(PWD)/emacs.d $(HOME)/.emacs.d
+	ln -sfvn $(PWD)/tmux.conf $(HOME)/.tmux.conf
+	ln -sfvn $(PWD)/zshrc $(HOME)/.zshrc
+	ln -sfvn $(PWD)/vimrc $(HOME)/.vimrc
