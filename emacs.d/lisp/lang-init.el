@@ -1,3 +1,15 @@
+(add-to-list 'load-path "~/.emacs.d/lang")
+
+;; Protocol Buffer
+(require 'protobuf-mode)
+(add-to-list 'auto-mode-alist '("\\.proto$" . protobuf-mode))
+(add-to-list 'ac-modes 'protobuf-mode)
+
+;; Dockerfile
+(require 'dockerfile-mode)
+(add-to-list 'auto-mode-alist '("Dockerfile\\'" . dockerfile-mode))
+(add-to-list 'ac-modes 'dockerfile-mode)
+
 ;; Flymake
 (add-to-list 'load-path "~/.emacs.d/lang/flymake")
 (require 'flymake-easy)

@@ -1,5 +1,7 @@
 build:
-	sudo apt-get install emacs tmux zsh docker python
+	brew update
+	brew install emacs tmux zsh python vim
+	sudo -H echo /usr/local/bin/zsh >> /etc/shells
 	curl -L http://install.ohmyz.sh | sh
 install:
 	PWD=$(shell pwd)
