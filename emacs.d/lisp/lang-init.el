@@ -5,6 +5,10 @@
 (add-to-list 'auto-mode-alist '("\\.proto$" . protobuf-mode))
 (add-to-list 'ac-modes 'protobuf-mode)
 
+;; YAML
+(require 'yaml-mode)
+(add-to-list 'auto-mode-alist '("\\.yml$" . yaml-mode))
+
 ;; Dockerfile
 (require 'dockerfile-mode)
 (add-to-list 'auto-mode-alist '("Dockerfile\\'" . dockerfile-mode))
@@ -50,6 +54,11 @@
 (setq py-install-directory "~/.emacs.d/lang/python")
 (add-to-list 'load-path py-install-directory)
 (require 'python-mode)
+
+;; Swift
+(add-to-list 'load-path "~/.emacs.d/lang/swift")
+(require 'swift-mode)
+(add-to-list 'ac-modes 'swift-mode)
 
 (provide 'lang-init)
 
