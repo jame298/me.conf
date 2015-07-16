@@ -4,8 +4,8 @@
 (require 'lang-init)
 (require 'ido-init)
 (require 'magit-init)
+(require 'yasnippet-init)
 
-(load-theme 'misterioso t)
 
 (defun revert-all-buffers ()
     "Refreshes all open buffers from their respective files."
@@ -36,8 +36,10 @@
 (add-hook 'before-save-hook 'whitespace-cleanup)
 
 (setq whitespace-display-mappings
-  '((space-mark   ?\    [?\xB7]     [?.])	; space
+  '((space-mark   ?\    [?\x20]     [? ])	; space
     (space-mark   ?\xA0 [?\xA4]     [?_])	; hard space
-    (newline-mark ?\n   [?\xB6 ?\n] [?$ ?\n])	; end-of-line
+    ;(newline-mark ?\n   [?\xB6 ?\n] [?$ ?\n])	; end-of-line
    )
 )
+
+(load-theme 'tango-dark t)
