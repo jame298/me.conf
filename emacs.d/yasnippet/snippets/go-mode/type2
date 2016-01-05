@@ -2,6 +2,6 @@
 # name: type
 # key: type
 # --
-type $1 struct {
+type $1 interface {
   $0
 }

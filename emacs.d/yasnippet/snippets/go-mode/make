@@ -1,1 +1,5 @@
+# -*- mode:snippet -*-
+# name: make
+# key: make
+# --
 make(${1:type})

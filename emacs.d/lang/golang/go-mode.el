@@ -146,7 +146,8 @@
     "case"     "defer"       "go"     "map"       "struct"
     "chan"     "else"        "goto"   "package"   "switch"
     "const"    "fallthrough" "if"     "range"     "type"
-    "continue" "for"         "import" "return"    "var")
+    "continue" "for"         "import" "return"    "var"
+    "int"      "float32")
   "All keywords in the Go language.  Used for font locking.")
 
 (defconst go-constants '("nil" "true" "false" "iota"))

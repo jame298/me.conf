@@ -1,0 +1,334 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/account/" . "migrations/")
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/cas/" . "migrations/")
+ ("/Users/jianzhang/Documents/levp/sso/djangop/db/" . "models/")
+ ("/Users/jianzhang/Documents/levp/sso/djangop/" . "db/")
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/account/templates/" . "account/")
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/account/" . "templates/")
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/djangop/" . "db/")
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/cas/" . "migrations/")
+ ("/Users/jianzhang/Documents/levp/" . "sso/")
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/djangop/db/" . "models/")
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/django_ext/db/" . "models/")
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/" . "settings/")
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/django_ext/" . "models/")
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/" . "account/")
+ ("/Users/jianzhang/Documents/levp/sso/" . "levpsso/")
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/" . "src/")
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/templates/" . "project/")
+ ("/Users/jianzhang/.go/src/github.com/jame298/" . "montage/")
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/" . "cli/")
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/" . "models/")
+ ("/Users/jianzhang/Documents/banxin/api/sdks/" . "easemob/")
+ ("/Users/jianzhang/Documents/banxin/api/bqueue/pushman/igetui/" . "template/")
+ ("/Users/jianzhang/Documents/banxin/api/bqueue/pushman/" . "igetui/")
+ ("/Users/jianzhang/Documents/banxin/api/locales/" . "messages/")
+ ("/Users/jianzhang/Documents/banxin/api/routes/api/render/" . "builder/")
+ ("/Users/jianzhang/Documents/banxin/api/bqueue/" . "pushman/")
+ ("/Users/jianzhang/Documents/banxin/web/templates/user/" . "email/")
+ ("/Users/jianzhang/Documents/banxin/web/templates/" . "layout/")
+ ("/Users/jianzhang/Documents/banxin/web/banxin/" . "apb/")
+ ("/Users/jianzhang/Documents/banxin/web/" . "banxin/")
+ ("/Users/jianzhang/Documents/banxin/backend/web/templates/user/" . "email/")
+ ("/Users/jianzhang/Documents/banxin/backend/web/templates/" . "user/")
+ ("/Users/jianzhang/Documents/banxin/backend/api/locales/" . "messages/")
+ ("/Users/jianzhang/Documents/banxin/backend/" . "web/")
+ ("/Users/jianzhang/Documents/banxin/backend/api/bqueue/pushman/igetui/" . "template/")
+ ("/Users/jianzhang/Documents/banxin/backend/api/bqueue/pushman/" . "igetui/")
+ ("/Users/jianzhang/Documents/banxin/backend/api/bqueue/" . "mailman/")
+ ("/Users/jianzhang/Documents/banxin/backend/api/routes/api/render/" . "builder/")
+ ("/Users/jianzhang/Documents/banxin/backend/web/banxin/" . "bapi/")
+ ("/Users/jianzhang/Documents/banxin/backend/web/" . "banxin/")
+ ("/Users/jianzhang/Documents/banxin/backend/api/routes/" . "api/")
+ ("/Users/jianzhang/Documents/banxin/backend/api/models/" . "protobuf/")
+ ("/Users/jianzhang/Documents/banxin/backend/api/util/" . "strings2/")
+ ("/Users/jianzhang/Documents/banxin/backend/api/" . "routes/")
+ ("/Users/jianzhang/Documents/banxin/backend/api/routes/api/" . "render/")
+ ("/Users/jianzhang/Documents/banxin/api/config/" . "docker/")
+ ("/Users/jianzhang/Documents/banxin/api/schema/" . "sql/")
+ ("/Users/jianzhang/Documents/banxin/" . "api/")
+ ("/Users/jianzhang/Documents/" . "banxin/")
+ ("/Users/jianzhang/Documents/banxin/api/routes/api/" . "rpmp/")
+ ("/Users/jianzhang/Documents/banxin/api/routes/" . "api/")
+ ("/Users/jianzhang/Documents/banxin/api/" . "models/")
+ ("/Users/jianzhang/Documents/banxin/api/models/" . "protobuf/")
+ ("/Users/jianzhang/Documents/banxin/protobuf/backend/" . "bqueue/")
+ ("/Users/jianzhang/Documents/banxin/protobuf/" . "backend/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/jianzhang/Documents/levp/sso/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/account/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/cas/"
+ "/Users/jianzhang/Documents/levp/sso/sdk/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/settings/"
+ "/Users/jianzhang/Documents/levp/sso/djangop/db/models/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/account/migrations/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/cas/migrations/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/settings/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/account/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/sdk/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/cas/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/account/templates/account/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/djangop/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/account/migrations/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/cas/migrations/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/djangop/db/models/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/cas/templates/cas/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/django_ext/db/models/"
+ "/Users/jianzhang/Documents/levp/sso/levpsso/django_ext/models/"
+ "/Users/jianzhang/Documents/banxin/api/models/"
+ "/Users/jianzhang/Documents/banxin/api/migrate/"
+ "/Users/jianzhang/Documents/banxin/api/routes/api/"
+ "/Users/jianzhang/Documents/banxin/api/bin/"
+ "/Users/jianzhang/Documents/banxin/api/dao/"
+ "/Users/jianzhang/Documents/banxin/api/storage/"
+ "/Users/jianzhang/Documents/banxin/api/routes/api/rpmp/"
+ "/Users/jianzhang/Documents/banxin/api/routes/api/render/"
+ "/Users/jianzhang/Documents/banxin/api/bqueue/"
+ "/Users/jianzhang/Documents/banxin/api/routes/api/protobuf/"
+ "/Users/jianzhang/Documents/banxin/api/config/"
+ "/Users/jianzhang/Documents/banxin/api/bqueue/pushman/"
+ "/Users/jianzhang/Documents/banxin/api/routes/api/render/builder/"
+ "/Users/jianzhang/Documents/banxin/api/locales/messages/"
+ "/Users/jianzhang/Documents/banxin/api/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/cli/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/montage/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/generate/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/cmd/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/models/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/views/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/params/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/fetchers/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/handlers/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/proto/"
+ "/Users/jianzhang/.go/src/github.com/jame298/montage/core/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "test.py"
+ "test_views.py"
+ "viewsets.py"
+ "restful_urls.py"
+ "test_tickets.py"
+ "test_applications.py"
+ "test_accouts.py"
+ "urls.py"
+ "levpsso.py"
+ "views.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/account/" (22084 32963 0 0) "viewsets.pyc" "viewsets.py" "views.pyc" "views.py" "urls.pyc" "urls.py" "tests.py" "test_views.py" "test_accouts.py" "templates/" "models.pyc" "models.py" "migrations/" "forms.pyc" "forms.py" "admin.pyc" "admin.py" "__pycache__/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/cas/" (22084 27891 0 0) "viewsets.pyc" "viewsets.py" "views.py" "urls.pyc" "urls.py" "tests.py" "test_tickets.py" "test_applications.py" "models.pyc" "models.py" "mixins.pyc" "mixins.py" "migrations/" "factories.py" "admin.pyc" "admin.py" "__pycache__/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/sdk/" (22084 27104 0 0) "test_sdk.py" "levpsso.pyc" "levpsso.py" "__pycache__/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/" (22084 27245 0 0) "wsgi.pyc" "wsgi.py" "urls.pyc" "urls.py" "settings/" "restful_urls.pyc" "restful_urls.py" "cas/" "apps.pyc" "account/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/settings/" (22084 11232 0 0) "test.pyc" "test.py" "dev.pyc" "dev.py" "defaults.pyc" "defaults.py" "beta.pyc" "beta.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/djangop/db/models/" (22084 9946 0 0) "query.pyc" "query.py" "manager.pyc" "manager.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/bqueue/" (22083 5208 0 0) "user_valid_email.pb.go" "user_valid_email.go" "user_request_trial.pb.go" "user_request_trial.go" "user_register.pb.go" "user_register.go" "user_message_badge.pb.go" "user_message_badge.go" "user_message_all_read.pb.go" "user_message_all_read.go" "user_letter.pb.go" "user_letter.go" "user_klass_destroy.pb.go" "user_klass_destroy.go" "user_forgot_password.pb.go" "user_forgot_password.go" "pushman/" "publisher.go" "notice_remind.pb.go" "notice_remind.go" "notice_new_checked.pb.go" "notice_new_checked.go" "notice_deliver.pb.go" "notice_deliver.go" "mailman/" "letter_callback.pb.go" "letter_callback.go" "klass_new_member.pb.go" "klass_new_member.go" "Dockerfile" ".#notice_remind.go" "#notice_remind.go#" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/cas/migrations/" (22082 64991 0 0) "__init__.pyc" "__init__.py" "0001_initial.pyc" "0001_initial.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/account/migrations/" (22082 64991 0 0) "__init__.pyc" "__init__.py" "0002_auto_20151110_2059.pyc" "0002_auto_20151110_2059.py" "0001_initial.pyc" "0001_initial.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/" (22083 10371 0 0) "venv/" "Vagrantfile" "test.py" "sdk/" "requirements.txt" "readme.md" "pytest.ini" "manage.py" "Makefile" "levpsso/" "gunicorn.py" "Dockerfile" "djangop/" ".vagrant/" ".gitignore" ".git/" ".cache/" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/.cache/" (22081 34940 0 0) "v/" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/account/__pycache__/" (22081 40929 0 0) "test_views.cpython-27-PYTEST.pyc" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/djangop/db/" (22073 29004 0 0) "models/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/djangop/" (22080 19511 0 0) "test.pyc" "test.py" "shortcuts.pyc" "shortcuts.py" "db/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/" (22081 34235 0 0) "wsgi.pyc" "wsgi.py" "urls.pyc" "urls.py" "settings/" "restful_urls.pyc" "restful_urls.py" "restful.pyc" "gunicorn.py" "cas/" "apps.pyc" "account/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/" (22079 5437 0 0) "tdd_demo/" "sso/" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/settings/" (22081 33708 0 0) "dev.pyc" "dev.py" "defaults.pyc" "defaults.py" "beta.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/cas/migrations/" (22080 19512 0 0) "__init__.pyc" "__init__.py" "0001_initial.pyc" "0001_initial.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/account/migrations/" (22080 19512 0 0) "__init__.pyc" "__init__.py" "0002_auto_20151109_0413.pyc" "0002_auto_20151109_0413.py" "0001_initial.pyc" "0001_initial.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/djangop/" (22080 19511 0 0) "test.pyc" "test.py" "shortcuts.pyc" "shortcuts.py" "db/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/account/" (22080 19553 0 0) "views.pyc" "views.py" "urls.pyc" "urls.py" "tests.py" "test_views.py" "templates/" "models.pyc" "models.py" "migrations/" "forms.pyc" "forms.py" "admin.pyc" "admin.py" "__pycache__/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/cas/" (22080 14711 0 0) "viewsets.pyc" "viewsets.py" "views.py" "urls.pyc" "urls.py" "tests.py" "models.pyc" "models.py" "migrations/" "factories.py" "admin.pyc" "admin.py" "__pycache__/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/sdk/" (22080 18779 0 0) "test_sdk.py" "levpsso.pyc" "levpsso.py" "__pycache__/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/account/templates/account/" (22076 33178 0 0) "login.html" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/account/templates/" (22076 18185 0 0) "account/" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/djangop/db/models/" (22075 23885 0 0) "manager.pyc" "manager.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/cas/templates/cas/" (22075 23579 0 0) "login.html" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/levpsso/cas/__pycache__/" (22075 23887 0 0) "tests.cpython-27-PYTEST.pyc" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/" (22073 61135 0 0) "VERSION" "Vagrantfile" "util/" "storage/" "sdks/" "schema/" "routes/" "models/" "migrate/" "middleware/" "main.go" "main" "locales/" "Godeps" "fabfile.pyc" "fabfile.py" "Dockerfile" "deploy.py" "dao/" "config.json" "config/" "bqueue/" "bin/" ".vagrant/" ".gitignore" ".git/" ".deploy.py.swp" ".#Godeps" "#Godeps#" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/djangop/db/" (22073 29004 0 0) "models/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/django_ext/db/models/" (22073 28499 0 0) "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/django_ext/db/" (22073 27532 0 0) "models/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/django_ext/" (22073 27337 0 0) "db/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/levp/sso/levpsso/django_ext/models/" (22072 48122 0 0) "manager.pyc" "manager.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/web/templates/user/email/" (21851 63187 0 0) "valid_email.html" "infomation.html" "email_password.html" "congratulate.html" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/web/banxin/" (22040 34493 0 0) "user.pyc" "user.py" "test.pyc" "test.py" "storage/" "notice.pyc" "notice.py" "models/" "main.pyc" "main.py" "klass.pyc" "klass.py" "im.py" "config.pyc" "config.py" "bapi/" "apb/" "admin/" "about.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/protobuf/backend/models/" (22039 29759 0 0) "user_profile.proto" "user_notice_metric.proto" "user_message.proto" "user_klass.proto" "user_im_auth.proto" "user_feed.proto" "user_badge.proto" "user.proto" "notice_user.proto" "notice_target.proto" "notice_metric.proto" "notice.proto" "letter_conversation.proto" "letter.proto" "klass_user.proto" "klass_notice.proto" "klass.proto" "auth_token.proto" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/schema/" (22039 26350 0 0) "scanner.go" "model.go" "info.go" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/sdks/easemob/" (22044 33260 0 0) "user_create.go" "token_create.go" "message_callback.go" "message_body.go" "easemob.go" "api_request.go" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/config/" (22039 42893 0 0) "version.go" "types.go" "raven.go" "qiniu.go" "nsq.go" "mode.go" "mail.go" "keys.go" "instance.go" "im.go" "hash_id.go" "getui.go" "constants.go" "cache.go" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/routes/api/protobuf/" (22040 44151 0 0) "user_valid_email.pb.go" "user_trial_code_show.pb.go" "user_status.pb.go" "user_reset_password.pb.go" "user_request_trial.pb.go" "user_register.pb.go" "user_push_config_patch.pb.go" "user_patch.pb.go" "user_message_destroy.pb.go" "user_message.pb.go" "user_logout.pb.go" "user_login.pb.go" "user_klasses.pb.go" "user_klass_owns.pb.go" "user_klass_members.pb.go" "user_klass_joins.pb.go" "user_klass_destroy.pb.go" "user_klass_create.pb.go" "user_forgot_password.pb.go" "user_feedbacks_create.pb.go" "user_edit.pb.go" "user_avatar_new.pb.go" "user.pb.go" "push.pb.go" "notify.pb.go" "notice_stamps.pb.go" "notice_stamp_create.pb.go" "notice_show.pb.go" "notice_remind.pb.go" "notice_readers.pb.go" "notice_new.pb.go" "notice_mines.pb.go" "notice_create.pb.go" "notice.pb.go" "message.pb.go" "klass_users.pb.go" "klass_user_destroy.pb.go" "klass_show.pb.go" "klass_patch.pb.go" "klass_notices.pb.go" "klass_head.pb.go" "klass_edit.pb.go" "klass_destroy.pb.go" "klass_create.pb.go" "klass.pb.go" "im.pb.go" "config.pb.go" ".#user_status.pb.go" "#user_status.pb.go#" "#im.pb.go#" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/routes/api/render/" (22044 50641 0 0) "user_valid_email.go" "user_trial_code_show.go" "user_status.go" "user_reset_password.go" "user_request_trial.go" "user_register.go" "user_push_config_patch.go" "user_patch.go" "user_notice_metric_per_user.go" "user_notice_metric.go" "user_message_destroy.go" "user_message.go" "user_logout.go" "user_login.go" "user_klass_owns.go" "user_klass_members.go" "user_klass_joins.go" "user_klass_destroy.go" "user_klass_create.go" "user_forgot_password.go" "user_feedbacks_create.go" "user_edit.go" "user_avatar_new.go" "pb.go" "notice_stamps.go" "notice_stamp_create.go" "notice_show.go" "notice_remind.go" "notice_readers.go" "notice_new.go" "notice_mines.go" "notice_create.go" "klass_users.go" "klass_user_destroy.go" "klass_show.go" "klass_patch.go" "klass_notices.go" "klass_head.go" "klass_edit.go" "klass_destroy.go" "klass_create.go" "im_user_show.go" "im_user_create.go" "im_targets_index.go" "im_message_index.go" "im_message_create.go" "im_conversation_read_all.go" "errors.go" "builder/" ".#klass_head.go" ".#im_message_create.go" "#user_patch.go#" "#user_login.go#" "#notice_mines.go#" "#klass_user_destroy.go#" "#klass_head.go#" "#klass_destroy.go#" "#klass_create.go#" "#im_message_create.go#" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/routes/api/rpmp/" (22040 35103 0 0) "vailder.go" "user_valid_email.go" "user_trial_code_show.go" "user_reset_password.go" "user_request_trial.go" "user_register.go" "user_push_config_patch.go" "user_patch.go" "user_notice_metric_per_user.go" "user_notice_metric.go" "user_message_destroy.go" "user_message.go" "user_logout.go" "user_login.go" "user_klass_owns.go" "user_klass_members.go" "user_klass_joins.go" "user_klass_destroy.go" "user_klass_create.go" "user_forgot_password.go" "user_feedbacks_create.go" "user_edit.go" "user_avatar_show.go" "user_avatar_new.go" "user.go" "platform.go" "paginate.go" "notice_stamps.go" "notice_stamp_create.go" "notice_show.go" "notice_remind.go" "notice_readers.go" "notice_new.go" "notice_mines.go" "notice_image.go" "notice_create.go" "klass_users.go" "klass_user_destroy.go" "klass_show.go" "klass_patch.go" "klass_notices.go" "klass_head.go" "klass_edit.go" "klass_destroy.go" "klass_create.go" "im_user_show.go" "im_message_index.go" "im_message_create.go" "im_conversation_read_all.go" ".#klass_notices.go" "#klass_users.go#" "#klass_notices.go#" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/storage/" (22039 42893 0 0) "test_helper.go" "redis.go" "error_codes.go" "database.go" "caching.go" "cache_records.go" "cache_ids_string_field.go" "cache_ids_int_field.go" "cache_fields.go" ".#database.go" "#database.go#" "#cache_ids_string_field.go#" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/dao/" (22044 42662 0 0) "user_trial_request.go" "user_test.go" "user_profile.go" "user_notice_metric.go" "user_message.go" "user_letter.go" "user_klass.go" "user_im_auth.go" "user_feed.go" "user_badge.go" "user.go" "trial_code.go" "slice_test.go" "slice.go" "notice_user_metric.go" "notice_user.go" "notice_metric.go" "notice.go" "letter_conversation.go" "letter.go" "klass_user.go" "klass.go" "auth_token.go" ".#user_profile.go" "#user_profile.go#" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/bin/" (22044 34572 0 0) "test.go" "sync_user_badge.go" "sync_notice_user_metric.go" "routes.go" "notice_metric.go" "migrate.go" "consumer.go" "commands.go" ".#test_raven.go" ".#commands.go" "#test_raven.go#" "#sync_user_badge.go#" "#migrate.go#" "#commands.go#" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/routes/api/" (22053 43278 0 0) "version_test.go" "user_test.go" "user.go" "test_container.go" "rpmp/" "render/" "qiniu.go" "protobuf/" "notice_test.go" "notice.go" "klass_test.go" "klass.go" "im_test.go" "im.go" "easemob_test.go" "easemob.go" ".#admin.go" "#admin.go#" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/migrate/" (22039 42893 0 0) "migrate.go" "handler.go" "database.go" "20151009160825563_add_status_to_user.go" "20151009103332723_create_notice_user_metric.go" "20150928174615632_change_klass_member_top.go" "20150928173405122_change_notice_content_size.go" "20150925170738508_add_letter_to_user_badges.go" "20150908130130_add_latest_message_id_to_user.go" "20150906180600_add_guid_to_letter.go" "20150902160430_create_letter_conversation.go" "20150902160423_create_user_letter.go" "20150902150359_create_letter.go" "20150825101006_create_letter_logs.go" "20150821170511_add_icon_id_to_klass.go" "20150811111142_create_user_im_auth.go" "20150807140252_add_alias_to_klass_user.go" "20150729140245_create_notice_metric.go" "20150729111139_create_user_notice_metric.go" "20150727111125_add_rc_token_to_user_push_config.go" "20150721101019_add_unread_message_count_to_user_badges.go" "20150716160411_create_user_messages.go" "20150716111101_add_platform_to_auth_token.go" "20150709140228_add_version_to_user.go" "20150707160416_create_user_profile.go" "20150707101013_add_remind_at_to_notice.go" "20150706111135_create_user_badges.go" "20150615140217_add_confirm_rank_to_user_feed.go" "20150604130104_add_attachment_extra_field_to_notice.go" "20150604101014_add_attachment_name_to_notice.go" "20150601121224_change_klass_code_to_number.go" "20150519140237_add_user_id_and_target_type_to_notice.go" "20150519101019_add_klass_id_to_notice_target.go" "20150507160404_add_klass_oid_and_recent_notice_id.go" "20150425140246_create_user_feedback.go" "20150424150303_create_trial_code.go" "20150424140233_create_user_trail_request.go" "20150424090928_user_reset_password.go" "20150423150324_create_user_email.go" "20150407180616_create_user_push_config.go" "201503171523_create_user_feed.go" "201503171523_create_klass_notice.go" "201503171501_create_notice_user.go" "201503171439_create_notice_target.go" "201503171415_create_notice.go" "201503101347_create_user_klass.go" "201503061305_create_klass.go" "201503021658_create_auth_token.go" "201503021132_create_user.go" ".#20150604101014_add_attachment_name_to_notice.go" "#20150902160430_create_letter_conversation.go#" "#20150729140245_create_notice_metric.go#" "#20150729111139_create_user_notice_metric.go#" "#20150604101014_add_attachment_name_to_notice.go#" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/models/" (22044 33951 0 0) "user_trial_request.go" "user_test.go" "user_sample.go" "user_reset_password.go" "user_push_config.go" "user_profile.go" "user_notice_metric.go" "user_message_test.go" "user_message.go" "user_letter.go" "user_klass.go" "user_im_auth.go" "user_feedback.go" "user_feed.go" "user_email.go" "user_badge.go" "user.go" "types/" "trial_code_sample.go" "trial_code.go" "shared_vars.go" "protobuf/" "notice_user_metric.go" "notice_user.go" "notice_target_sample.go" "notice_target.go" "notice_sample.go" "notice_metric.go" "notice.go" "letter_log.go" "letter_conversation.go" "letter.go" "klass_user.go" "klass_sample.go" "klass_notice.go" "klass.go" "auth_token.go" "#auth_token.go#" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/web/templates/main/" (22036 53377 0 0) "weixin.html" "index.html" "extend.html" "download.html" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/web/templates/" (22026 20780 0 0) "user/" "test/" "notice/" "main/" "layout.html" "layout/" "klass/" "admin/" "about/" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/web/templates/notice/" (22026 20780 0 0) "show.html" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/web/templates/klass/" (22026 20780 0 0) "new.html" "index.html" "header.html" "created.html" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/web/banxin/apb/" (22026 20780 0 0) "user_valid_email_pb2.pyc" "user_valid_email_pb2.py" "user_trial_code_show_pb2.pyc" "user_trial_code_show_pb2.py" "user_status_pb2.py" "user_reset_password_pb2.pyc" "user_reset_password_pb2.py" "user_request_trial_pb2.pyc" "user_request_trial_pb2.py" "user_register_pb2.pyc" "user_register_pb2.py" "user_push_config_patch_pb2.py" "user_pb2.pyc" "user_pb2.py" "user_patch_pb2.pyc" "user_patch_pb2.py" "user_message_pb2.py" "user_message_destroy_pb2.py" "user_logout_pb2.pyc" "user_logout_pb2.py" "user_login_pb2.pyc" "user_login_pb2.py" "user_klasses_pb2.pyc" "user_klasses_pb2.py" "user_klass_owns_pb2.pyc" "user_klass_owns_pb2.py" "user_klass_members_pb2.pyc" "user_klass_members_pb2.py" "user_klass_joins_pb2.py" "user_klass_destroy_pb2.py" "user_klass_create_pb2.py" "user_forgot_password_pb2.pyc" "user_forgot_password_pb2.py" "user_feedbacks_create_pb2.pyc" "user_feedbacks_create_pb2.py" "user_edit_pb2.pyc" "user_edit_pb2.py" "user_avatar_new_pb2.py" "push_pb2.py" "notify_pb2.pyc" "notify_pb2.py" "notice_stamps_pb2.pyc" "notice_stamps_pb2.py" "notice_stamp_create_pb2.pyc" "notice_stamp_create_pb2.py" "notice_show_pb2.pyc" "notice_show_pb2.py" "notice_remind_pb2.py" "notice_readers_pb2.pyc" "notice_readers_pb2.py" "notice_pb2.pyc" "notice_pb2.py" "notice_new_pb2.pyc" "notice_new_pb2.py" "notice_mines_pb2.pyc" "notice_mines_pb2.py" "notice_create_pb2.pyc" "notice_create_pb2.py" "message_pb2.py" "klass_users_pb2.pyc" "klass_users_pb2.py" "klass_user_destroy_pb2.pyc" "klass_user_destroy_pb2.py" "klass_show_pb2.pyc" "klass_show_pb2.py" "klass_pb2.pyc" "klass_pb2.py" "klass_patch_pb2.pyc" "klass_patch_pb2.py" "klass_notices_pb2.pyc" "klass_notices_pb2.py" "klass_head_pb2.pyc" "klass_head_pb2.py" "klass_edit_pb2.py" "klass_destroy_pb2.pyc" "klass_destroy_pb2.py" "klass_create_pb2.pyc" "klass_create_pb2.py" "im_pb2.py" "config_pb2.pyc" "config_pb2.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/web/templates/user/" (22036 53377 0 0) "trial_beta.html" "trial.html" "success_reset.html" "success_mail.html" "success_login.html" "success_apply.html" "student.html" "statistics.html" "reset_password.html" "register_teacher_invite.html" "register_teacher.html" "register_student_invite.html" "register_student.html" "number_exist.html" "number_error.html" "new.html" "my_nav.html" "my.html" "messages.html" "login.html" "index.html" "forget.html" "email.html" "email/" "chat_template.html" "chat_huanxin_template.html" "chat_huanxin.html" "chat_demo.html" "chat.html" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/web/templates/layout/" (22036 53377 0 0) "layout.html" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/web/" (22036 53536 0 0) "VERSION" "Vagrantfile" "templates/" "static_dev/" "shell.py" "requirement.txt" "Gruntfile.js.lnk" "front/" "fabfile.pyc" "fabfile.py" "banxin/" "app2.py" "app.pyc" "app.py" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/protobuf/api/" (22025 62907 0 0) "user_valid_email.proto" "user_trial_code_show.proto" "user_status.proto" "user_reset_password.proto" "user_request_trial.proto" "user_register.proto" "user_push_config_patch.proto" "user_patch.proto" "user_message_destroy.proto" "user_message.proto" "user_logout.proto" "user_login.proto" "user_klasses.proto" "user_klass_owns.proto" "user_klass_members.proto" "user_klass_joins.proto" "user_klass_destroy.proto" "user_klass_create.proto" "user_forgot_password.proto" "user_feedbacks_create.proto" "user_edit.proto" "user_avatar_new.proto" "user.proto" "push.proto" "notify.proto" "notice_stamps.proto" "notice_stamp_create.proto" "notice_show.proto" "notice_remind.proto" "notice_readers.proto" "notice_new.proto" "notice_mines.proto" "notice_create.proto" "notice.proto" "message.proto" "klass_users.proto" "klass_user_destroy.proto" "klass_show.proto" "klass_patch.proto" "klass_notices.proto" "klass_head.proto" "klass_edit.proto" "klass_destroy.proto" "klass_create.proto" "klass.proto" "im.proto" "config.proto" ".#user_forgot_password.proto" ".#notice_create.proto" "#user_login.proto#" "#user_forgot_password.proto#" "#notice_readers.proto#" "#notice_create.proto#" "#im.proto#" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/bqueue/pushman/" (22024 63248 0 0) "push/" "protobuf/" "igetui/" "getui_man.go" "context.go" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/routes/api/render/builder/" (22024 44058 0 0) "utils.go" "notice_list_item.go" "klass_list_item.go" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/protobuf/backend/bqueue/" (21998 33985 0 0) "user_valid_email.proto" "user_request_trial.proto" "user_register.proto" "user_message_badge.proto" "user_message_all_read.proto" "user_letter.proto" "user_klass_destroy.proto" "user_forgot_password.proto" "notice_remind.proto" "notice_new_checked.proto" "notice_deliver.proto" "letter_callback.proto" "klass_new_member.proto" ".#user_register.proto" ".#notice_new_checked.proto" ".#notice_deliver.proto" "#user_register.proto#" "#notice_new_checked.proto#" "#notice_deliver.proto#" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/locales/messages/" (22013 20379 0 0) "base.yaml" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/locales/" (21964 21485 0 0) "utils.go" "translator_test.go" "translator.go" "rules/" "messages/" "../" "./")
+
+ ("/Users/jianzhang/" (22010 42219 0 0) "VirtualBox VMs/" "Public/" "Pictures/" "pgadmin.log" "Music/" "Movies/" "Library/" "easemobchat_2.2.2.jar.src.zip" "Downloads/" "Documents/" "Desktop/" "Applications/" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh_aliases" ".zsh-update" ".zcompdump-建的MacBook Pro-5.0.7" ".vimrc" ".viminfo" ".vagrant.d/" ".Trash/" ".tmux.conf" ".subversion/" ".ssh/" ".sqlite_history" ".ShadowsocksX/" ".sh_history" ".putty/" ".proxychains/" ".pgpass" ".pgadmin_histoqueries" ".oh-my-zsh/" ".m2/" ".local/" ".lesshst" ".itmstransporter/" ".ipython/" ".go/" ".gitconfig" ".ghc/" ".gemrc" ".gem/" ".emacs.d/" ".emacs" ".DS_Store" ".config/" ".cocoapods/" ".CFUserTextEncoding" ".cabal/" ".bash_history" ".adjfljlkdjfl2112/" "../" "./")
+
+ ("/Users/jianzhang/Documents/" (21996 62172 0 0) "终端存储的输出" "test/" "study/" "Structured Computer Organization.pdf" "Microsoft 用户数据/" "main.go" "lisp/" "licenses/" "github/" "daily/" "Computer Systems A Programmers Perspective 2nd Edition.pdf" "btzdata.xcdatamodel" "banxin/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/handlers/" (21995 42392 0 0) "user.go" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/" (21995 42392 0 0) "templates/" "montage/" "model/" "migrate/" "LICENSE" "Godeps" "generate/" "fetcher/" "context.go" "cli/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/fetchers/" (21995 42392 0 0) "user.go" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/params/" (21995 42392 0 0) "user_show.go" "user_actives.go" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/views/" (21995 42392 0 0) "user_actives.go" "user.go" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/models/" (21995 42392 0 0) "user.go" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/" (21995 42392 0 0) "src/" "main.go" "config/" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/generate/" (21995 42392 0 0) "project.go" "new.go" "main.tmpl.go" "config_montage.tmpl.go" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/montage/" (21995 42392 0 0) "main.go" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/cli/" (21995 42392 0 0) "task.go" "group.go" "context.go" "cli.go" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/model/" (21913 60612 0 0) "schema.go" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/backend/api/routes/api/render/builder/" (21839 64269 0 0) "utils.go" "notice_list_item.go" "klass_list_item.go" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/web/banxin/bapi/" (21852 6652 0 0) "crypto.pyc" "crypto.py" "api.pyc" "api.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/bqueue/mailman/" (21988 6223 0 0) "mailgun_man.go" "context.go" ".#mailgun_man.go" ".#exqq_man.go" "#mailgun_man.go#" "#exqq_man.go#" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/cmd/" (21991 46292 0 0) "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/" (21991 45121 0 0) "views/" "params/" "models/" "handlers/" "fetchers/" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/fetcher/" (21909 64377 0 0) "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/templates/project/src/proto/" (21967 62091 0 0) "user.go" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/" (21931 42563 0 0) "rbuilder/" "montage/" "mailgun-go/" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/core/" (21967 60759 0 0) "engine.go" "context.go" "../" "./")
+
+ ("/Users/jianzhang/.go/src/github.com/jame298/montage/templates/" (21913 60764 0 0) "project/" "model/" "migrate/" "fetcher/" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/sdks/" (21960 25399 0 0) "easemob/" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/util/" (21943 9051 0 0) "strings2/" "paginate.go" "../" "./")
+
+ ("/Users/" (21689 11222 0 0) "Shared/" "jianzhang/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/middleware/" (21956 29562 0 0) "version_filter.go" "raven_recovery.go" "auth_required.go" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/" (21948 48626 0 0) "web/" "target_list.txt" "sender_list.txt" "protobuf/" "product/" "ios_old/" "ios/" "extend.html" "develop_ios/" "backend.backup/" "backend/" "api/" ".DS_Store" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/backend/api/routes/api/" (21944 38194 0 0) "user_test.go" "user.go" "test_container.go" "rpmp/" "render/" "qiniu.go" "protobuf/" "notice_test.go" "notice.go" "klass_test.go" "klass.go" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/bqueue/pushman/igetui/template/" (21941 50903 0 0) "TransmissionTemplate.go" "NotypoploadTemplate.go" "NotificationTemplate.go" "LinkTemplate.go" "ITemplate.go" ".DS_Store" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/protobuf/.git/" (21928 41903 0 0) "refs/" "packed-refs" "ORIG_HEAD" "objects/" "logs/" "info/" "index" "hooks/" "HEAD" "FETCH_HEAD" "description" "config" "COMMIT_EDITMSG" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/api/bqueue/pushman/protobuf/" (21914 26146 0 0) "GtReqPb.go" ".DS_Store" "../" "./")
+
+ ("/Users/jianzhang/Documents/github/montage/migrate/" (21913 60680 0 0) "task.go" "../" "./")
+
+ ("/Users/jianzhang/Documents/github/montage/" (21923 35114 0 0) "templates/" "montage.go" "model/" "migrate/" "LICENSE" "Godeps" "generate/" "fetcher/" "engine.go" "dispatch.go" "context.go" "command.go" "cli/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/protobuf/backend/" (21778 7371 0 0) "models/" "bqueue/" "../" "./")
+
+ ("/Users/jianzhang/Documents/banxin/protobuf/" (21927 6992 0 0) "README.md" "build.py" "backend/" "api/" ".gitignore" ".git/" ".DS_Store" "#build.py#" "../" "./")
+
+ ("/Users/jianzhang/Documents/github/montage/templates/" (21913 60764 0 0) "project/" "model/" "migrate/" "fetcher/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

@@ -1,11 +1,12 @@
 (add-to-list 'load-path "~/.emacs.d/lisp")
+(add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
+
 (require 'uniquify)
 (require 'auto-complete-init)
 (require 'lang-init)
 (require 'ido-init)
-(require 'magit-init)
 (require 'yasnippet-init)
-
+(require 'whitespace)
 
 (defun revert-all-buffers ()
     "Refreshes all open buffers from their respective files."
@@ -28,18 +29,19 @@
 (global-linum-mode t)
 (column-number-mode t)
 (global-auto-revert-mode t)
-(global-whitespace-mode t)
 (menu-bar-mode -1)
+(global-set-key [(control h)] 'delete-backward-char)
 
-(autoload 'whitespace-mode           "whitespace" "Toggle whitespace visualization."        t)
-(autoload 'whitespace-toggle-options "whitespace" "Toggle local `whitespace-mode' options." t)
+(global-whitespace-mode t)
+(setq whitespace-style '(face empty lines-tail trailing))
+(setq whitespace-line-column 80)
+(setq whitespace-global-modes '(not git-commit-mode go-mode markdown-mode))
 (add-hook 'before-save-hook 'whitespace-cleanup)
 
-(setq whitespace-display-mappings
-  '((space-mark   ?\    [?\x20]     [? ])	; space
-    (space-mark   ?\xA0 [?\xA4]     [?_])	; hard space
-    ;(newline-mark ?\n   [?\xB6 ?\n] [?$ ?\n])	; end-of-line
-   )
-)
+;; always prefer UTF-8
+(set-terminal-coding-system 'utf-8)
+(set-keyboard-coding-system 'utf-8)
+(prefer-coding-system 'utf-8)
 
-(load-theme 'tango-dark t)
+;; use theme solarized
+(load-theme 'manoj-dark t)

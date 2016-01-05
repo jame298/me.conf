@@ -9,6 +9,14 @@
 (require 'yaml-mode)
 (add-to-list 'auto-mode-alist '("\\.yml$" . yaml-mode))
 
+;; Markdown
+(autoload 'markdown-mode "markdown-mode"
+	"Major mode for editing Markdown files" t)
+(add-to-list 'auto-mode-alist '("\\.text\\'" . markdown-mode))
+(add-to-list 'auto-mode-alist '("\\.markdown\\'" . markdown-mode))
+(add-to-list 'auto-mode-alist '("\\.md\\'" . markdown-mode))
+(add-to-list 'ac-modes 'markdown-mode)
+
 ;; Dockerfile
 (require 'dockerfile-mode)
 (add-to-list 'auto-mode-alist '("Dockerfile\\'" . dockerfile-mode))
@@ -26,7 +34,7 @@
 (add-to-list 'auto-mode-alist '("\\.rb$" . enh-ruby-mode))
 (add-to-list 'auto-mode-alist '("\\.rake$" . enh-ruby-mode))
 (add-to-list 'interpreter-mode-alist '("ruby" . enh-ruby-mode))
-(add-hook 'enh-ruby-mode-hook 'flymake-ruby-load)
+;; (add-hook 'enh-ruby-mode-hook 'flymake-ruby-load)
 
 ;; Golang
 (add-to-list 'load-path "~/.emacs.d/lang/golang")
@@ -60,6 +68,5 @@
 (require 'swift-mode)
 (add-to-list 'ac-modes 'swift-mode)
 
+
 (provide 'lang-init)
-
-
