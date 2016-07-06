@@ -68,5 +68,20 @@
 (require 'swift-mode)
 (add-to-list 'ac-modes 'swift-mode)
 
+;; Lua
+(add-to-list 'load-path "~/.emacs.d/lang/lua")
+(autoload 'lua-mode "lua-mode" "Lua editing mode." t)
+(add-to-list 'auto-mode-alist '("\\.lua$" . lua-mode))
+(add-to-list 'interpreter-mode-alist '("lua" . lua-mode))
+
+;; C
+(add-to-list 'load-path "~/.emacs.d/lang/cc")
+(require 'cc-mode)
+(setq-default c-basic-offset 4
+	      c-default-style "linux"
+	      c-syntactic-indentation nil
+              tab-width 4
+              indent-tabs-mode t)
+
 
 (provide 'lang-init)

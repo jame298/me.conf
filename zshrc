@@ -11,7 +11,7 @@ source $ZSH/oh-my-zsh.sh
 export LANG=en_US.UTF-8
 export GOPATH=$HOME/.go
 export PATH=$GOPATH/bin:$PATH
-export PATH=/usr/local/sbin:$PATH
+export PATH=$HOME/bin:/usr/local/sbin:$PATH
 export GO15VENDOREXPERIMENT=1
 
 if [ -f $HOME/.zsh_aliases ]; then
