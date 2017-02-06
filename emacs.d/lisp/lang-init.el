@@ -1,9 +1,16 @@
 (add-to-list 'load-path "~/.emacs.d/lang")
 
-;; Protocol Buffer
-(require 'protobuf-mode)
-(add-to-list 'auto-mode-alist '("\\.proto$" . protobuf-mode))
-(add-to-list 'ac-modes 'protobuf-mode)
+;; Javascript
+(add-to-list 'auto-mode-alist '("\\.js$" . js-mode))
+(setq js-indent-level 2)
+(add-hook 'js-mode-hook (lambda () (untabify (point-min) (point-max))))
+
+;; TypeScript
+(require 'typescript)
+(add-to-list 'auto-mode-alist '("\\.ts$" . typescript-mode))
+(add-to-list 'ac-modes 'typescript-mode)
+(setq typescript-indent-level 2)
+(add-hook 'typescript-mode-hook (lambda () (untabify (point-min) (point-max))))
 
 ;; YAML
 (require 'yaml-mode)
@@ -11,7 +18,7 @@
 
 ;; Markdown
 (autoload 'markdown-mode "markdown-mode"
-	"Major mode for editing Markdown files" t)
+    "Major mode for editing Markdown files" t)
 (add-to-list 'auto-mode-alist '("\\.text\\'" . markdown-mode))
 (add-to-list 'auto-mode-alist '("\\.markdown\\'" . markdown-mode))
 (add-to-list 'auto-mode-alist '("\\.md\\'" . markdown-mode))
@@ -78,8 +85,8 @@
 (add-to-list 'load-path "~/.emacs.d/lang/cc")
 (require 'cc-mode)
 (setq-default c-basic-offset 4
-	      c-default-style "linux"
-	      c-syntactic-indentation nil
+          c-default-style "linux"
+          c-syntactic-indentation nil
               tab-width 4
               indent-tabs-mode t)
 

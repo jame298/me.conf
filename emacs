@@ -13,8 +13,8 @@
     (interactive)
     (dolist (buf (buffer-list))
       (with-current-buffer buf
-	(when (and (buffer-file-name) (file-exists-p (buffer-file-name)) (not (buffer-modified-p)))
-	  (revert-buffer t t t) )))
+    (when (and (buffer-file-name) (file-exists-p (buffer-file-name)) (not (buffer-modified-p)))
+      (revert-buffer t t t) )))
     (message "Refreshed open files.") )
 
 (setq inhibit-startup-message t)   ; Don't want any startup message
