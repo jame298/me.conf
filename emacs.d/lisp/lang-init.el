@@ -44,9 +44,14 @@
 ;; (add-hook 'enh-ruby-mode-hook 'flymake-ruby-load)
 
 ;; Golang
+(defun go-mode-before-save-hook ()
+  (when (eq major-mode 'go-mode)
+	(gofmt-before-save)))
+
 (add-to-list 'load-path "~/.emacs.d/lang/golang")
 (require 'go-mode-autoloads)
 (require 'flymake-go)
+(add-hook 'before-save-hook #'go-mode-before-save-hook)
 
 ;; Haml
 (add-to-list 'load-path "~/.emacs.d/lang/haml")
