@@ -15,6 +15,7 @@
 ;; YAML
 (require 'yaml-mode)
 (add-to-list 'auto-mode-alist '("\\.yml$" . yaml-mode))
+(add-to-list 'ac-modes 'yaml-mode)
 
 ;; Markdown
 (autoload 'markdown-mode "markdown-mode"
