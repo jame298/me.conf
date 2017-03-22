@@ -40,6 +40,13 @@
 (setq whitespace-global-modes '(not git-commit-mode go-mode markdown-mode))
 (add-hook 'before-save-hook 'whitespace-cleanup)
 
+(yas-global-mode t)
+(define-prefix-command 'ctl-y-map)
+(global-set-key (kbd "C-y") 'ctl-y-map)
+(global-set-key (kbd "C-y C-i") 'yas-insert-snippet)(global-set-key [(kbd "C-c C-s")] 'yas-insert-snippet)
+
+(setq yas-prompt-functions '(yas-ido-prompt))
+
 ;; always prefer UTF-8
 (set-terminal-coding-system 'utf-8)
 (set-keyboard-coding-system 'utf-8)
