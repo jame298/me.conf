@@ -1,5 +1,5 @@
 (add-to-list 'load-path
-              "~/.emacs.d/yasnippet")
+              "~/.emacs.d/yasnippet-0.11.0")
 (require 'yasnippet)
 
 (yas-global-mode t)
@@ -13,5 +13,7 @@
 ;; Set Yasnippet's key binding to shift+tab
 (define-key yas-minor-mode-map (kbd "<backtab>") 'yas-expand)
 (define-key yas-keymap (kbd "<backtab>") 'yas-next-field)
+
+(setq yas-prompt-functions '(yas-ido-prompt))
 
 (provide 'yasnippet-init)

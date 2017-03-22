@@ -1,7 +1,0 @@
-# -*- mode:snippet -*-
-# name: import (...)
-# key: impm
-# --
-import (
-  "$0"
-)
