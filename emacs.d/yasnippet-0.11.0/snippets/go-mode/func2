@@ -1,8 +1,8 @@
 # -*- mode: snippet -*-
-# name: func2
-# key: func2
+# name: func (... ) name(args)
+# key: func
 # --
-//
+// $3 ${6:...}
 func (${1:this} ${2:struct}) ${3:name}(${4:args}) $5 {
   $0
 }
