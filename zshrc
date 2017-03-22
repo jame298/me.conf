@@ -3,7 +3,7 @@ export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="nebirhos"
 EDITOR=nano
 DISABLE_AUTO_TITLE="true"
-plugins=(zsh-autosuggestions docker-compose git git-flow osx ruby golang python) 
+plugins=(zsh-autosuggestions docker-compose git git-flow osx ruby golang python tmux) 
 
 alias sgdb='sudo /usr/local/bin/gdb'
 

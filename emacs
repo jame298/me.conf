@@ -5,6 +5,7 @@
 (require 'auto-complete-init)
 (require 'lang-init)
 (require 'ido-init)
+(require 'git-init)
 (require 'yasnippet-init)
 (require 'whitespace)
 
