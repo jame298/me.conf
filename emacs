@@ -41,9 +41,9 @@
 (add-hook 'before-save-hook 'whitespace-cleanup)
 
 (yas-global-mode t)
-(define-prefix-command 'ctl-y-map)
-(global-set-key (kbd "C-y") 'ctl-y-map)
-(global-set-key (kbd "C-y C-i") 'yas-insert-snippet)(global-set-key [(kbd "C-c C-s")] 'yas-insert-snippet)
+; (define-prefix-command 'ctl-y-map)
+; (global-set-key (kbd "C-y") 'ctl-y-map)
+; (global-set-key (kbd "C-y C-i") 'yas-insert-snippet)(global-set-key [(kbd "C-c C-s")] 'yas-insert-snippet)
 
 (setq yas-prompt-functions '(yas-ido-prompt))
 

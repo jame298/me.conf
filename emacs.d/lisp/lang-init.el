@@ -1,5 +1,10 @@
 (add-to-list 'load-path "~/.emacs.d/lang")
 
+;; Protobuf
+(require 'protobuf-mode)
+(add-to-list 'auto-mode-alist '("\\.proto\\'" . protobuf-mode))
+(add-to-list 'ac-modes 'protobuf-mode)
+
 ;; Javascript
 (add-to-list 'auto-mode-alist '("\\.js$" . js-mode))
 (setq js-indent-level 2)
